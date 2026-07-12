@@ -174,11 +174,11 @@ If you enjoyed this project, consider giving it a ⭐ on GitHub. It helps others
 
 ## 📧 Contact
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Sanjay-git-02
 
-LinkedIn: https://linkedin.com/in/yourusername
+LinkedIn: https://www.linkedin.com/in/sanjay-c-m-b53922351?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-Instagram: @CodeRealm
+Instagram: @officialcoderealm
 
 ---
 
