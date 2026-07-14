@@ -67,7 +67,7 @@ Steps to run:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/<owner>/<repo>.git
+git clone https://github.com/Sanjay-git-02/game-of-thrones-fanmade
 cd Game-of-Thrones
 ```
 
